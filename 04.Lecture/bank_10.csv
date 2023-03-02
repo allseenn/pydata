@@ -1,0 +1,11 @@
+age;job;marital;education;default;balance;housing;loan;contact;day;month;duration;campaign;pdays;convert;
+17100;42;management;divorced;secondary;no;284;no;no;cellular;25;7;1173;4;-1;0
+22678;58;blue-collar;married;unknown;no;9;no;no;cellular;25;8;50;23;-1;0
+35195;35;technician;married;secondary;no;883;yes;no;cellular;7;5;333;1;351;0
+13117;59;retired;divorced;primary;no;830;no;yes;cellular;8;7;116;1;-1;0
+29034;42;entrepreneur;married;secondary;no;46;no;no;cellular;2;2;1013;1;-1;0
+44256;27;admin.;married;tertiary;no;2855;no;no;cellular;22;7;138;2;178;1
+12587;44;blue-collar;married;secondary;no;978;no;no;unknown;3;7;385;6;-1;0
+5828;31;services;divorced;secondary;no;-274;yes;no;unknown;26;5;283;1;-1;0
+30224;57;management;married;tertiary;no;297;no;no;cellular;5;2;633;1;-1;0
+14888;34;blue-collar;married;primary;no;602;yes;no;cellular;16;7;680;1;-1;0
